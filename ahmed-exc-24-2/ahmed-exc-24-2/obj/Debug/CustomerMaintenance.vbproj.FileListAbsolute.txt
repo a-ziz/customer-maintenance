@@ -1,0 +1,70 @@
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.vbprojResolveAssemblyReference.cache
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.Resources.resources
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.vbproj.GenerateResource.Cache
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.xml
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.xml
+C:\VB 2015\Book applications\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.xml
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\MMABooks.mdf
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\MMABooks_log.ldf
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.xml
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.dll
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.dll
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.xml
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\EntityFramework.SqlServer.xml
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.vbprojResolveAssemblyReference.cache
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.Resources.resources
+C:\VB 2015\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.vbproj.GenerateResource.Cache
+C:\Users\nageles\OneDrive - buffalostate.edu\CIS 400 and Murach\Murach\Exercise starts\Chapter 24\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\nageles\OneDrive - buffalostate.edu\CIS 400 and Murach\Murach\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\nageles\OneDrive - buffalostate.edu\CIS 400 and Murach\Murach\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.xml
+C:\Users\nageles\OneDrive - buffalostate.edu\CIS 400 and Murach\Murach\Exercise starts\Chapter 24\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\MMABooks.mdf
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\MMABooks_log.ldf
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\CustomerMaintenance.exe
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\CustomerMaintenance.pdb
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\CustomerMaintenance.xml
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\EntityFramework.dll
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\EntityFramework.xml
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbprojAssemblyReference.cache
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.Resources.resources
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.GenerateResource.cache
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.CoreCompileInputs.cache
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.CopyComplete
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.exe
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.xml
+C:\Users\aziz2\OneDrive\Documents\VB.Net\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.pdb
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.AssemblyReference.cache
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.SuggestedBindingRedirects.cache
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.frmAddModifyCustomer.resources
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.frmCustomerMaintenance.resources
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.Resources.resources
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.GenerateResource.cache
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.vbproj.CoreCompileInputs.cache
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.exe
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.xml
+C:\Users\aziz2\OneDrive\Documents\Visual Basic.NET\ahmed-exc-24-2\ahmed-exc-24-2\obj\Debug\CustomerMaintenance.pdb
